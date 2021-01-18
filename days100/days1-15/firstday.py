@@ -4,8 +4,8 @@ The first python program
 
 import turtle
 
-turtle.pensize(5)
-turtle.pencolor('yellow')
+turtle.pensize(3)
+turtle.pencolor('red')
 
 turtle.forward(100)
 turtle.right(90)
